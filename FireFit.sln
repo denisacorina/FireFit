@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageClassification1", "ImageClassification1\ImageClassification1.csproj", "{BEB5EA37-DDE7-4F5C-BBFF-32C389DF409B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FireFitApp.Shared", "FireFitApp.Shared\FireFitApp.Shared.csproj", "{58FAF8B6-EF6B-4D28-87EB-F5B4E1D01890}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FireFitApp.Api", "FireFitApp.Api\FireFitApp.Api.csproj", "{AA546E30-B398-493A-8DE7-79ED39865449}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FireFit.Mobile", "FireFit.Mobile\FireFit.Mobile.csproj", "{CCA9BDE1-A5C2-411D-AB3F-E5CE728DB0A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireFit.Web", "FireFit.Web\FireFit.Web.csproj", "{3AFFE314-37EB-41B9-8FFC-19EB672040AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB5EA37-DDE7-4F5C-BBFF-32C389DF409B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB5EA37-DDE7-4F5C-BBFF-32C389DF409B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB5EA37-DDE7-4F5C-BBFF-32C389DF409B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB5EA37-DDE7-4F5C-BBFF-32C389DF409B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FAF8B6-EF6B-4D28-87EB-F5B4E1D01890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FAF8B6-EF6B-4D28-87EB-F5B4E1D01890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FAF8B6-EF6B-4D28-87EB-F5B4E1D01890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FAF8B6-EF6B-4D28-87EB-F5B4E1D01890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA546E30-B398-493A-8DE7-79ED39865449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA546E30-B398-493A-8DE7-79ED39865449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA546E30-B398-493A-8DE7-79ED39865449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA546E30-B398-493A-8DE7-79ED39865449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA9BDE1-A5C2-411D-AB3F-E5CE728DB0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA9BDE1-A5C2-411D-AB3F-E5CE728DB0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA9BDE1-A5C2-411D-AB3F-E5CE728DB0A2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CCA9BDE1-A5C2-411D-AB3F-E5CE728DB0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA9BDE1-A5C2-411D-AB3F-E5CE728DB0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA9BDE1-A5C2-411D-AB3F-E5CE728DB0A2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3AFFE314-37EB-41B9-8FFC-19EB672040AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFFE314-37EB-41B9-8FFC-19EB672040AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFFE314-37EB-41B9-8FFC-19EB672040AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFFE314-37EB-41B9-8FFC-19EB672040AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50CE857E-5D77-4B0D-961A-C8D32130FD79}
+	EndGlobalSection
+EndGlobal
